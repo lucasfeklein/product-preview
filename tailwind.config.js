@@ -9,8 +9,19 @@ export default {
       },
       colors: {
         cream: "hsl(30, 38%, 92%)",
+        "very-dark-blue": "hsl(212, 21%, 14%)",
+        "dark-grayish-blue": "hsl(228, 12%, 48%)",
+        "dark-cyan": "hsl(158, 36%, 37%)",
       },
     },
   },
   plugins: [],
 };
+
+// - Dark cyan: hsl(158, 36%, 37%)
+// - Cream: hsl(30, 38%, 92%)
+
+// ### Neutral
+
+// - Very dark blue: hsl(212, 21%, 14%)
+// - Dark grayish blue: hsl(228, 12%, 48%)
