@@ -14,7 +14,7 @@ export default {
         "dark-cyan": "hsl(158, 36%, 37%)",
       },
       backgroundImage: {
-        perfume: "url('image-product-desktop.jpg')",
+        perfume: "url('./image-product-desktop.jpg')",
       },
     },
   },
