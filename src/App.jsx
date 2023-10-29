@@ -1,5 +1,5 @@
 function App() {
-  return <div>oi</div>;
+  return <div className="text-red-300">oi</div>;
 }
 
 export default App;
