@@ -13,6 +13,9 @@ export default {
         "dark-grayish-blue": "hsl(228, 12%, 48%)",
         "dark-cyan": "hsl(158, 36%, 37%)",
       },
+      backgroundImage: {
+        perfume: "url('./image-product-desktop.jpg')",
+      },
     },
   },
   plugins: [],
