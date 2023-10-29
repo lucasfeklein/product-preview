@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="h-screen bg-cream flex justify-center items-center">
-      <div className="bg-white flex h-[420px] w-[550px] rounded-xl overflow-hidden">
+      <div className="bg-white flex flex-col sm:flex-row h-screen sm:h-[420px] w-screen sm:w-[550px] rounded-xl overflow-hidden">
         <div className="bg-[url('./image-product-desktop.jpg')] bg-cover flex-1"></div>
         <div className="flex-1">
           <div className="p-7 flex flex-col justify-between h-full">
