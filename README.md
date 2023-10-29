@@ -1,9 +1,15 @@
-# React + Vite
+# Frontend Challenge
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A newbie Frontend challenge fully responsive from Frontend Mentor to keep practicing
 
-Currently, two official plugins are available:
+## Demo link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# product-preview
+[https://amazing-cascaron-eb8e99.netlify.app/](https://amazing-cascaron-eb8e99.netlify.app/)
+
+## Desktop preview
+
+![Desktop](./public/desktop-image.png)
+
+## Mobile preview
+
+<img src='./public/mobile-image.png' width="400"/>
