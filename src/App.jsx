@@ -2,7 +2,9 @@ function App() {
   return (
     <div className="h-screen bg-cream flex justify-center items-center">
       <div className="bg-white flex flex-col sm:flex-row h-[95%] sm:h-[420px] w-[95%] sm:w-[550px] rounded-xl overflow-hidden">
-        <div className="bg-perfume bg-cover bg-center h-[40%] sm:flex-1 sm:h-full"></div>
+        <div className="bg-perfume bg-cover bg-center h-[40%] sm:flex-1 sm:h-full">
+          <img src="./image-product-desktop.jpg" />
+        </div>
         <div className="flex-1">
           <div className="p-7 flex flex-col justify-between h-full">
             <p className="text-dark-grayish-blue text-xs tracking-[5px]">
