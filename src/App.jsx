@@ -25,7 +25,7 @@ function App() {
             </div>
 
             <button className="bg-dark-cyan text-white flex items-center w-full justify-center gap-3 h-12 rounded-md hover:bg-very-dark-blue">
-              <img src="./icon-cart.svg" />
+              <img src="./icon-cart.svg" alt="cart-icon" />
               Add to Cart
             </button>
           </div>
