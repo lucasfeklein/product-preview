@@ -7,6 +7,9 @@ export default {
         fraunces: ["Fraunces", "serif"],
         montserrat: ["Montserrat", "sans-serif"],
       },
+      colors: {
+        cream: "hsl(30, 38%, 92%)",
+      },
     },
   },
   plugins: [],

@@ -1,5 +1,9 @@
 function App() {
-  return <div className="font-fraunces">oi</div>;
+  return (
+    <div className="h-screen bg-cream flex justify-center items-center">
+      <div>oi</div>
+    </div>
+  );
 }
 
 export default App;
